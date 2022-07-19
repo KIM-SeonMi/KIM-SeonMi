@@ -6,10 +6,12 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)</div>
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark) 
+
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kindmi)
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kindmi)](https://solved.ac/kindmi)
-
+ <img src="http://mazandi.herokuapp.com/api?handle=kindmi&theme=warm"/>
 
 <!--
 **KIM-SeonMi/KIM-SeonMi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
