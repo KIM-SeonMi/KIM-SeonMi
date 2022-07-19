@@ -1,13 +1,15 @@
-### 😊KIM SEON MI👋
+## Hi there!👋
+### I'm KIM SEON MI😊
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKIM-SeonMi&count_bg=%23E4C7FF&title_bg=%239580FD&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKIM-SeonMi&count_bg=%23E4C7FF&title_bg=%239580FD&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)</div>
+<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kindmi)
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/kindmi/)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kindmi)](https://solved.ac/kindmi)
+
 
 <!--
 **KIM-SeonMi/KIM-SeonMi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
