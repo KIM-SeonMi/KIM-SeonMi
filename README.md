@@ -7,7 +7,7 @@
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=tokyonight) 
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kindmi)
 
