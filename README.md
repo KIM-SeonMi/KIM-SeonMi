@@ -18,9 +18,9 @@
 </div>
 
 <div align="center">
-
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kindmi)
 <img src="http://mazandi.herokuapp.com/api?handle=kindmi&theme=warm"/>
+
 </div>
 
 <!--
