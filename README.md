@@ -10,7 +10,8 @@
 
 </div>
 
-***
+#
+
 <div align="center">
 
 ![KIM-SeonMi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIM-SeonMi&show_icons=true&theme=swift)
