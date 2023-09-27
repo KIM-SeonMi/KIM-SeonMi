@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20Seonmi's%20GitHub%20😊&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=547fe2&text=%20Seonmi's%20GitHub%20😊&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=70&height=250)
 <div align="center">
 <h3>안녕하세요<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25"/></h3>
 
@@ -13,9 +13,8 @@
 ![HTML](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=css3&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=html5&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23c193ef&title_bg=%23686868&icon=github.svg&icon_color=%23FFFFFF&title=&edge_flat=true)](https://hits.seeyoufarm.com)
-<br /><br />
+ 
+<br />
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=KIM-SeonMi&hide=contribs,prs&show_icons=true&theme=material-palenight) -->
 ![stats](https://github-readme-stats.vercel.app/api?username=KIM-SeonMi&layout=&theme=material-palenight&show_icons=true) ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=KIM-SeonMi&layout=compact&theme=material-palenight)
